@@ -1,11 +1,12 @@
 # Central Hub
 
+> It's a brave new world.
 
 ## Database (SQL)
 
 For anonymous client data:
 
-**GENERAL**
+**General**
 * ID No. (only clinics have mappings of ID to actual name and birthdate)
 * Age
 * Weight
@@ -16,9 +17,10 @@ For anonymous client data:
 * Allergies
 * Physician
 
-**CONTINUOUS**
-* Admit Dates -> derive most recent
-* for each test: test dates + results with graph
+**Visits, Tests**
+* Admit Dates
+* Tests
+* (Per Test) Test Dates and Results
 
 
 
