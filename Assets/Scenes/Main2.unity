@@ -9056,7 +9056,11 @@ GameObject:
   - 225: {fileID: 611711391}
   - 114: {fileID: 611711390}
   m_Layer: 5
+<<<<<<< HEAD
   m_Name: Shadow
+=======
+  m_Name: Male
+>>>>>>> origin/master
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10733,8 +10737,33 @@ CanvasRenderer:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 724144833}
 --- !u!114 &724144837
+=======
+  m_GameObject: {fileID: 707352282}
+--- !u!1 &709765374
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 4
+  m_Component:
+  - 224: {fileID: 709765380}
+  - 222: {fileID: 709765379}
+  - 114: {fileID: 709765377}
+  - 114: {fileID: 709765375}
+  - 114: {fileID: 709765376}
+  - 114: {fileID: 709765378}
+  m_Layer: 5
+  m_Name: Female
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &709765375
+>>>>>>> origin/master
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
@@ -24283,6 +24312,20 @@ MonoBehaviour:
   appointment_textbox: {fileID: 511136374}
   latest_visit_date_textbox: {fileID: 1723262154}
   latest_visit_doc_textbox: {fileID: 499052729}
+<<<<<<< HEAD
+=======
+  firstname_input: {fileID: 704631963}
+  lastname_input: {fileID: 541459787}
+  gender_m_input: {fileID: 612520353}
+  gender_f_input: {fileID: 709765374}
+  birthdate_input: {fileID: 754666686}
+  weight_input: {fileID: 290125529}
+  height_input: {fileID: 1003206274}
+  phone_input: {fileID: 789580468}
+  latest_visit_doc_input: {fileID: 282271773}
+  medications_input: {fileID: 114958708}
+  conditions_input: {fileID: 1448438634}
+>>>>>>> origin/master
 --- !u!1 &1709058373
 GameObject:
   m_ObjectHideFlags: 0
